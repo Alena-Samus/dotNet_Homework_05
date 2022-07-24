@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwless5", "hwless5.csproj", "{779B69A5-EB8F-4C96-B66B-23E0E2EE71AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779B69A5-EB8F-4C96-B66B-23E0E2EE71AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779B69A5-EB8F-4C96-B66B-23E0E2EE71AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779B69A5-EB8F-4C96-B66B-23E0E2EE71AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779B69A5-EB8F-4C96-B66B-23E0E2EE71AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8735CEF6-C8AC-4DC3-B5E2-EAC1D26738E5}
+	EndGlobalSection
+EndGlobal
